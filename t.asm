@@ -1,4 +1,4 @@
-[org 0x0100]     ;;;( TETRIS GAME MADE BY MAAZ KHAN in Nov,2023 as a coal project ) github profile: https://github.com/maazkhan75
+[org 0x0100]     ;;;( TETRIS GAME MADE BY MAAZ KHAN in Nov,2023 as a coal project ) github profile: https://github.com/MaazDev7
 
 jmp start
 
